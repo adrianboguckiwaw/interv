@@ -22,7 +22,7 @@ class Run:
 class MultipleVals:
     def MultipleIt(self,data_dict, currencies_dict, matching_dict):
         lists = []
-        for matching_id in data_dict:
+        #for matching_id in data_dict:
 
 
 
